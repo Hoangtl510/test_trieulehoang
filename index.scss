@@ -77,14 +77,13 @@ a {
   .section__1-header {
     padding-top: 70px;
     width: 380px;
-    color:#374639;
-;
     @media only screen and (max-width: 479px) {
       width: 100%;
     }
     .header__title {
       font-size: 45px;
       line-height: 53px;
+      color:#374639;
       @media only screen and (max-width: 767px) {
         font-size: 40px;
         line-height: 45px;

@@ -88,7 +88,6 @@ a:hover {
 .section__1 .section__1-header {
   padding-top: 70px;
   width: 380px;
-  color: #374639;
 }
 @media only screen and (max-width: 479px) {
   .section__1 .section__1-header {
@@ -98,6 +97,7 @@ a:hover {
 .section__1 .section__1-header .header__title {
   font-size: 45px;
   line-height: 53px;
+  color: #374639;
 }
 @media only screen and (max-width: 767px) {
   .section__1 .section__1-header .header__title {
